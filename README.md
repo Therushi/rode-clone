@@ -4,7 +4,7 @@
 
 Made with ❤ in india
 
-This is the User-Interface of Rode website designed fully with HTML and CSS. The Landing page contains:
+This is the User-Interface of Rode website designed fully with HTML and Tailwind CSS. The Landing page contains:
 
 - Nabar
 - Main Section
@@ -16,11 +16,11 @@ This is the User-Interface of Rode website designed fully with HTML and CSS. The
 
 <!-- # Preview -->
 
-<!-- ![preview](thumbnail.png) -->
+![preview](thumbnail.png)
 
 # Time taken to Complete
 
-`4 hours`
+`6 hours`
 
 # you can see Live here 😎
 
